@@ -1,0 +1,2 @@
+theia@theiaopenshift-trishabelitk:/home/project/guestbook/v1/guestbook$ cat deployment
+deployment.apps/guestbook configured
