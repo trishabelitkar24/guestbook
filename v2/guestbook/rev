@@ -1,0 +1,23 @@
+theia@theiaopenshift-trishabelitk:/home/project/guestbook/v2/guestbook$ cat rev
+deployment.apps/guestbook 
+REVISION  CHANGE-CAUSE
+1         <none>
+2         <none>
+3         <none>
+
+deployment.apps/guestbook with revision #3
+Pod Template:
+  Labels:       app=guestbook
+        pod-template-hash=6bf7f8d595
+  Containers:
+   guestbook:
+    Image:      us.icr.io/sn-labs-trishabelitk/guestbook:v2
+    Port:       3000/TCP
+    Host Port:  0/TCP
+    Limits:
+      cpu:      5m
+    Requests:
+      cpu:      2m
+    Environment:        <none>
+    Mounts:     <none>
+  Volumes:      <none>
