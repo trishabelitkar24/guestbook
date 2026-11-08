@@ -1,0 +1,6 @@
+theia@theiaopenshift-trishabelitk:/home/project/guestbook/v2/guestbook$ cat rs
+NAME                               DESIRED   CURRENT   READY   AGE
+guestbook-6bf7f8d595               1         1         1       17m
+guestbook-77669474d8               1         1         0       56m
+openshift-web-console-7774bc7c44   2         2         2       77m
+theia@theiaopenshift-trishabelitk:/home/project/guestbook/v2/guestbook$ 
