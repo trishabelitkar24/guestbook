@@ -1,0 +1,20 @@
+theia@theiaopenshift-trishabelitk:/home/project/guestbook/v2/guestbook$ cat upguestbook
+The push refers to repository [us.icr.io/sn-labs-trishabelitk/guestbook]
+5f70bf18a086: Preparing
+01a1c9f010b7: Preparing
+1e5fa3e39071: Preparing
+faf334ddce58: Preparing
+abf75818c024: Preparing
+a082d07ad074: Preparing
+548a79621a42: Preparing
+a082d07ad074: Waiting
+548a79621a42: Waiting
+5f70bf18a086: Layer already exists
+a082d07ad074: Layer already exists
+548a79621a42: Layer already exists
+faf334ddce58: Pushed
+abf75818c024: Pushed
+01a1c9f010b7: Pushed
+1e5fa3e39071: Pushed
+v2: digest: sha256:3e06ccca8af7f592cfe81f0e16d92fbf8cad8eed2b2f4854de8dbb6831e556ce size: 1776
+theia@theiaopenshift-trishabelitk:/home/project/guestbook/v2/guestbook$ 
