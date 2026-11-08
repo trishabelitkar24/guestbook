@@ -1,0 +1,55 @@
+NAME        REFERENCE              TARGETS       MINPODS   MAXPODS   REPLICAS   AGE
+
+guestbook   Deployment/guestbook   cpu: 0%/50%   1         10        1          17m
+
+guestbook   Deployment/guestbook   cpu: 185%/50%   1         10        1          17m
+
+guestbook   Deployment/guestbook   cpu: 250%/50%   1         10        4          17m
+
+guestbook   Deployment/guestbook   cpu: 210%/50%   1         10        5          17m
+
+guestbook   Deployment/guestbook   cpu: 112%/50%   1         10        5          18m
+
+guestbook   Deployment/guestbook   cpu: 106%/50%   1         10        5          18m
+
+guestbook   Deployment/guestbook   cpu: 107%/50%   1         10        10         18m
+
+guestbook   Deployment/guestbook   cpu: 101%/50%   1         10        10         18m
+
+guestbook   Deployment/guestbook   cpu: 66%/50%    1         10        10         19m
+
+guestbook   Deployment/guestbook   cpu: 0%/50%     1         10        10         19m
+
+guestbook   Deployment/guestbook   cpu: 1%/50%     1         10        10         19m
+
+guestbook   Deployment/guestbook   cpu: 4%/50%     1         10        10         20m
+
+guestbook   Deployment/guestbook   cpu: 1%/50%     1         10        10         20m
+
+guestbook   Deployment/guestbook   cpu: 0%/50%     1         10        10         20m
+
+guestbook   Deployment/guestbook   cpu: 2%/50%     1         10        10         20m
+
+guestbook   Deployment/guestbook   cpu: 4%/50%     1         10        10         21m
+
+guestbook   Deployment/guestbook   cpu: 0%/50%     1         10        10         21m
+
+guestbook   Deployment/guestbook   cpu: 1%/50%     1         10        10         21m
+
+guestbook   Deployment/guestbook   cpu: 2%/50%     1         10        10         22m
+
+guestbook   Deployment/guestbook   cpu: 0%/50%     1         10        10         22m
+
+guestbook   Deployment/guestbook   cpu: 1%/50%     1         10        10         22m
+
+guestbook   Deployment/guestbook   cpu: 0%/50%     1         10        10         22m
+
+guestbook   Deployment/guestbook   cpu: 3%/50%     1         10        10         23m
+
+guestbook   Deployment/guestbook   cpu: 0%/50%     1         10        10         23m
+
+guestbook   Deployment/guestbook   cpu: 1%/50%     1         10        10         23m
+
+guestbook   Deployment/guestbook   cpu: 2%/50%     1         10        10         24m
+
+guestbook   Deployment/guestbook   cpu: 0%/50%     1         10        3          24m
