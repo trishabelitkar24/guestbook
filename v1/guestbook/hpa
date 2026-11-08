@@ -1,0 +1,17 @@
+theia@theiaopenshift-trishabelitk:/home/project$ kubectl get hpa guestbook --watch
+
+NAME        REFERENCE              TARGETS       MINPODS   MAXPODS   REPLICAS   AGE
+
+guestbook   Deployment/guestbook   cpu: 0%/50%   1         10        1          17m
+
+guestbook   Deployment/guestbook   cpu: 185%/50%   1         10        1          17m
+
+guestbook   Deployment/guestbook   cpu: 250%/50%   1         10        4          17m
+
+guestbook   Deployment/guestbook   cpu: 210%/50%   1         10        5          17m
+
+rguestbook   Deployment/guestbook   cpu: 112%/50%   1         10        5          18m
+
+guestbook   Deployment/guestbook   cpu: 106%/50%   1         10        5          18m
+
+guestbook   Deployment/guestbook   cpu: 107%/50%   1         10        10         18m
